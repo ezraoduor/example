@@ -7,3 +7,20 @@ h1{
 h4{
     color: rgb(0, 0, 0);
 }
+*{
+    text-align: center;
+}
+img{
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+}
+ul>li{
+    color: blue;
+}
+ol>li{
+    color: blue;
+}
+ul>li{
+    list-style-type: circle;
+}
